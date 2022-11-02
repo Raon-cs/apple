@@ -3,7 +3,7 @@
 기반 환경 = 구글 코랩(google colab)
 사용 라이브러리 = LabelEncoder, train_test_split, mean_squared_error, r2_score, confusion_matrix, numpy, pandas, seaborn, matplotlib, matplotlib.pyplot, LinearRegression, os 등
 
-라벨링 데이터(json data)
+# 라벨링 데이터(json data)
 
 1) 파일 통합 및 csv형태로 변환
 
@@ -36,7 +36,7 @@
  4-2) 모델 저장
 
 
-이미지 데이터(image data)
+# 이미지 데이터(image data)
 
 1)데이터 전처리
 
